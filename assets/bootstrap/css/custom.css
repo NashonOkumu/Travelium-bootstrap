@@ -1,0 +1,31 @@
+body{
+    background-size: cover;
+    font-weight: bold;
+}
+.top{
+    height: 20vh;
+}
+.top_left h1{
+    margin-left: 10%;
+}
+.top_right button{
+    border: unset;
+}
+.middle_right form{
+    width: 60%;
+    height: 55vh;
+    background-color: #ffffff;
+    padding: 20px;
+    border-bottom: solid green 5px;
+}
+.form_left{
+    margin-right: 10%;
+    padding-left: 30px;
+}
+.btn_book{
+    border-radius: 5px;
+    border: unset;
+}
+
+
+
